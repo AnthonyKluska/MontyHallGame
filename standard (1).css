@@ -1,0 +1,73 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  color: lightsteelblue;
+  background-color: #333333;
+}
+
+.doorway{
+	display: inline-block;
+	border-color: black; 
+	border-width: 1px;
+	border-style: solid;
+	height: 800px;
+	width: 20%; 
+	background-color: #170300;
+	float:center; 
+}
+.door{
+	border-color: gold;
+	border-width: 2px;
+	border-style: solid;
+	background-color: #8A3324; 
+	height: 85%;
+	width: 80%; 
+	margin-left: 10%;
+	float: center; 
+}
+h3{
+	border-bottom-color: black;
+	border-bottom-width: 1px; 
+	border-top-color: black;
+	border-top-width: 1px; 
+	color: gold;
+	text-align: center; 
+	font-size: 30px;
+	display: inline-block; 
+}
+h4{
+	color: Black; 
+	font: impact; 
+	font-size: 100%;
+	text-align: center; 
+}
+#score_card{
+	border-color: gold;
+	border-width: 2px;
+	border-style: solid;
+	background-color: #8A3324;  
+	float: center; 
+	padding: 1px; 
+	width: 80%; 
+	margin-left: 10%;
+	height: 10%; 
+}
+
+#score{
+	
+	margin-top: -10px; 
+}
+p{
+	display: inline-block;
+    color : gold; 
+	font-size: 20px;
+	border-color: gold;
+	border-width: 1px;
+}
+#home{
+	color : gold; 
+	font-size: 10px;
+}
